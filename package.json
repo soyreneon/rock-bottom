@@ -1,0 +1,21 @@
+{
+  "name": "rock-bottom",
+  "displayName": "Rock Bottom",
+  "description": "Theme inspired on Rock Bottom city from SpongeBob show",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rock Bottom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rock Bottom-color-theme.json"
+      }
+    ]
+  }
+}
