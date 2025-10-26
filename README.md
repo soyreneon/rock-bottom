@@ -1,16 +1,7 @@
-# rock-bottom README
+# Rock bottom theme
 
-## Working with Markdown
+Theme inspired on Rock Bottom city from SpongeBob show
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Credits
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This theme was created using [ThemeTuner](https://marketplace.visualstudio.com/items?itemName=soyreneon.themeeditor) extension and is based on the popular [Cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) theme.

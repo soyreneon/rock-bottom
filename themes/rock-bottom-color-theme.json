@@ -239,20 +239,6 @@
     "terminal.ansiBrightRed": "#ff628c",
     "gitDecoration.deletedResourceForeground": "#ff628c"
   },
-  "syntax": {
-    "variables": "#ff727d",
-    "properties": "#ff727d",
-    "keywords": "#00f9cc",
-    "numbers": "#ff3e74",
-    "classes": "#ff8bfe",
-    "constants": "#ff8bfe",
-    "functions": "#a2c6ff",
-    "methods": "#a2c6ff",
-    "strings": "#02e7ff",
-    "operators": "#f7ff00",
-    "special functions": "#f7ff00",
-    "comments": "#a6a4ad"
-  },
   "tokenColors": [
     {
       "scope": ["comment", "punctuation.definition.comment"],
