@@ -33,6 +33,11 @@
         "label": "Rock Bottom",
         "uiTheme": "vs-dark",
         "path": "./themes/rock-bottom-color-theme.json"
+      },
+      {
+        "label": "New Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/new-theme.json"
       }
     ]
   }
