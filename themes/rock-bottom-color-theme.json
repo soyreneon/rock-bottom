@@ -252,7 +252,7 @@
     "scrollbarSlider.hoverBackground": "#30415d",
     "list.errorForeground": "#f65e8a"
   },
-  "textMateRules": [
+  "tokenColors": [
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {

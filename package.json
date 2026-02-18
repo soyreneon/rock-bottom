@@ -3,7 +3,7 @@
   "displayName": "Rock Bottom",
   "publisher": "soyreneon",
   "description": "Theme inspired on Rock Bottom city from SpongeBob show",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.105.0"
   },
